@@ -5,7 +5,7 @@
 
  Welcome! 
 
- It's 2023-01-15 at 07:03 PM
+ It's 2023-01-17 at 07:45 PM
 
  This file is running on:    nt Windows 10
  
@@ -16,7 +16,7 @@
 
  The active environment should be either conda OR pip (one should be None):
 
-     Active conda env is: None
+     Active conda env is: base
      Active pip env is:   None
  
  The path to the active virtual environment is:
